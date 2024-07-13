@@ -2,7 +2,7 @@
 - 🖥️ Atualmente trabalho como analista de teste de software de forma remota
 - 🐞 Meu dia dia de trabalho envolve: Automação, testes: funcionais e exploratórios, reporte de bugs, Dayle semanal.
 - 📚 Atualmente estou fazendo pos graduação em teste de software pela faculdade Unyleya.
-- 🚀 Se quiser conhecer mais sobre meu trabalho acesse minha rede social do LinkedIn : https://www.linkedin.com/in/robson-olinger/
+- 🚀 Se quiser conhecer mais sobre meu trabalho ou sobre mim acesse minha rede social do LinkedIn e Instagran
 
  <div>
   <a href="https://github.com/RobsonOlinger">
